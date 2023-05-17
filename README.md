@@ -1,0 +1,1 @@
+Medusa Frontend via Vercel/Next.JS
